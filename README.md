@@ -1,0 +1,2 @@
+# kfoldersync
+Sync your folders
